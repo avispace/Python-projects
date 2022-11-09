@@ -1,0 +1,1001 @@
+Age,Gender,Payment Method,Future Customer
+64,male,credit card,yes
+35,male,cheque,yes
+25,female,credit card,yes
+39,female,credit card,no
+39,male,credit card,yes
+28,female,cheque,no
+21,female,credit card,yes
+48,male,credit card,yes
+70,female,credit card,no
+36,male,credit card,yes
+22,male,credit card,yes
+53,female,cash,no
+27,male,cash,yes
+40,male,credit card,yes
+22,male,cash,yes
+49,female,credit card,no
+24,female,cash,no
+45,male,credit card,yes
+45,male,credit card,yes
+66,female,cash,no
+82,female,cash,no
+35,female,credit card,no
+17,female,credit card,yes
+52,male,cash,no
+49,female,credit card,no
+33,female,credit card,no
+40,male,credit card,yes
+53,female,credit card,no
+64,female,credit card,no
+42,female,credit card,no
+66,male,cash,no
+84,female,cash,no
+34,male,cheque,yes
+46,male,credit card,yes
+71,female,credit card,no
+68,male,cash,no
+18,female,cash,no
+49,female,cash,no
+23,female,credit card,yes
+38,male,credit card,yes
+65,female,cash,no
+22,female,credit card,yes
+21,male,credit card,yes
+37,female,credit card,no
+70,female,credit card,no
+81,male,cash,no
+47,female,credit card,no
+55,male,cash,no
+42,male,credit card,yes
+38,male,credit card,yes
+60,female,credit card,no
+68,male,credit card,yes
+22,male,credit card,yes
+63,male,cash,no
+60,male,cash,no
+25,male,credit card,yes
+84,male,credit card,no
+53,male,credit card,yes
+47,female,cheque,no
+54,female,cheque,no
+52,male,credit card,yes
+25,male,credit card,yes
+52,male,credit card,yes
+47,male,cash,no
+47,female,cash,no
+33,female,credit card,no
+74,male,credit card,no
+35,male,credit card,yes
+35,female,credit card,no
+52,female,cash,no
+20,male,credit card,yes
+50,male,credit card,yes
+38,male,cheque,no
+66,male,credit card,yes
+19,male,credit card,yes
+42,male,credit card,yes
+35,female,credit card,no
+86,female,credit card,no
+27,female,credit card,yes
+34,male,credit card,yes
+64,female,credit card,no
+63,male,credit card,yes
+58,female,credit card,no
+63,male,credit card,yes
+31,male,credit card,yes
+36,female,credit card,no
+58,female,cash,no
+21,male,cash,yes
+27,female,credit card,yes
+45,female,credit card,no
+51,male,credit card,yes
+42,male,credit card,yes
+67,female,credit card,no
+55,female,cash,no
+23,female,credit card,yes
+36,male,credit card,yes
+89,female,cash,no
+64,male,cash,no
+72,male,credit card,yes
+33,female,credit card,no
+50,female,credit card,no
+71,male,cheque,no
+79,male,credit card,no
+51,female,cash,no
+72,female,cash,no
+61,female,cash,no
+59,female,credit card,no
+49,male,credit card,yes
+54,female,cheque,no
+26,male,cash,yes
+18,male,cash,yes
+37,female,cash,no
+40,male,credit card,yes
+42,female,cash,no
+69,male,credit card,yes
+24,male,credit card,yes
+62,female,cash,no
+39,male,credit card,yes
+37,female,credit card,no
+22,female,credit card,yes
+38,male,cash,no
+28,female,credit card,yes
+53,male,credit card,yes
+36,male,credit card,yes
+76,female,cheque,no
+42,female,credit card,no
+65,male,cash,no
+65,male,cash,no
+24,male,credit card,yes
+31,female,cash,no
+46,female,cheque,no
+68,male,credit card,yes
+42,male,cash,no
+55,female,credit card,no
+54,female,cash,no
+81,male,credit card,no
+46,male,credit card,yes
+63,female,credit card,no
+73,male,credit card,no
+17,male,credit card,yes
+53,female,cash,no
+17,female,credit card,yes
+91,female,cheque,no
+35,male,credit card,yes
+80,female,cash,no
+35,female,credit card,no
+47,female,credit card,no
+67,female,credit card,no
+46,male,credit card,yes
+50,female,credit card,no
+50,female,cheque,no
+72,female,credit card,no
+25,female,cash,no
+38,female,credit card,no
+30,male,cash,yes
+27,male,credit card,yes
+32,female,cash,no
+56,male,credit card,yes
+29,male,credit card,yes
+58,male,credit card,yes
+37,female,credit card,no
+49,male,cash,no
+19,male,credit card,yes
+57,male,credit card,yes
+27,female,credit card,yes
+78,female,cash,no
+29,male,credit card,yes
+59,male,cash,no
+62,male,credit card,yes
+57,female,credit card,no
+29,female,credit card,yes
+28,female,credit card,yes
+51,male,credit card,yes
+45,male,credit card,yes
+85,female,cash,no
+51,female,cash,no
+34,male,credit card,yes
+66,female,cash,no
+30,male,credit card,yes
+89,female,cash,no
+33,female,credit card,no
+17,female,cash,no
+50,female,credit card,no
+42,male,cheque,no
+34,male,credit card,yes
+55,female,cash,no
+73,female,cash,no
+59,male,credit card,yes
+47,male,cash,no
+78,female,cash,no
+69,female,credit card,no
+38,male,cash,no
+17,female,credit card,yes
+22,male,credit card,yes
+52,female,cheque,no
+30,female,credit card,yes
+36,male,cheque,no
+60,female,cash,no
+23,female,cash,no
+40,male,credit card,yes
+27,female,credit card,yes
+52,female,credit card,no
+75,male,credit card,no
+40,male,credit card,yes
+30,male,credit card,yes
+42,male,cash,no
+43,female,cash,no
+61,male,cash,no
+56,male,credit card,yes
+51,female,credit card,no
+37,male,credit card,yes
+17,male,cheque,yes
+30,female,credit card,yes
+35,female,cash,no
+25,male,cash,yes
+26,male,credit card,yes
+33,female,credit card,no
+43,female,credit card,no
+21,male,cash,yes
+29,male,credit card,yes
+34,male,cash,yes
+33,female,credit card,no
+17,male,credit card,yes
+79,female,credit card,no
+79,male,credit card,no
+52,male,credit card,yes
+62,female,cheque,no
+30,female,credit card,yes
+35,female,credit card,no
+31,male,credit card,yes
+47,female,cash,no
+35,male,credit card,yes
+61,male,credit card,yes
+62,male,credit card,yes
+55,female,credit card,no
+48,male,cheque,no
+89,male,cash,no
+33,female,credit card,no
+50,female,credit card,no
+63,male,cheque,no
+64,female,credit card,no
+74,male,credit card,no
+33,male,credit card,yes
+55,male,cheque,no
+81,male,credit card,no
+81,female,credit card,no
+50,female,cash,no
+53,male,cash,no
+56,male,cheque,no
+50,female,credit card,no
+38,female,credit card,no
+71,male,credit card,yes
+18,female,credit card,yes
+27,female,credit card,yes
+27,female,cheque,no
+86,female,credit card,no
+82,male,cash,no
+24,male,cash,yes
+29,male,credit card,yes
+45,male,credit card,yes
+35,male,credit card,yes
+18,female,credit card,yes
+90,male,credit card,no
+51,male,credit card,yes
+27,male,cash,yes
+24,female,credit card,yes
+28,male,cash,yes
+43,female,cheque,no
+21,female,credit card,yes
+75,female,credit card,no
+51,female,credit card,no
+39,male,credit card,yes
+46,male,credit card,yes
+34,female,credit card,no
+40,male,credit card,yes
+38,female,cash,no
+45,male,credit card,yes
+48,female,cash,no
+55,male,credit card,yes
+17,female,cheque,no
+68,male,credit card,yes
+28,male,credit card,yes
+26,male,credit card,yes
+73,female,cash,no
+54,female,cheque,no
+70,male,credit card,yes
+58,female,cash,no
+40,male,credit card,yes
+63,female,credit card,no
+75,female,cash,no
+39,female,credit card,no
+31,male,cash,yes
+90,male,credit card,no
+28,male,credit card,yes
+43,male,credit card,yes
+34,male,credit card,yes
+56,male,credit card,yes
+40,male,credit card,yes
+39,female,credit card,no
+40,female,cash,no
+39,female,credit card,no
+36,female,credit card,no
+34,female,credit card,no
+86,female,credit card,no
+52,male,cash,no
+20,male,credit card,yes
+46,male,credit card,yes
+42,male,cash,no
+54,male,credit card,yes
+46,male,credit card,yes
+76,female,credit card,no
+20,female,credit card,yes
+51,male,credit card,yes
+54,male,cash,no
+65,female,cheque,no
+55,female,credit card,no
+17,male,cash,yes
+18,female,credit card,yes
+21,female,credit card,yes
+64,female,cash,no
+71,male,credit card,yes
+43,male,cash,no
+18,female,cheque,no
+39,female,credit card,no
+26,male,cash,yes
+17,female,credit card,yes
+77,female,credit card,no
+45,female,credit card,no
+90,male,credit card,no
+55,male,cash,no
+37,female,credit card,no
+30,female,credit card,yes
+501,male,credit card,yes
+46,male,cash,no
+48,male,credit card,yes
+34,male,credit card,yes
+52,male,cash,no
+18,female,credit card,yes
+46,female,credit card,no
+53,male,credit card,yes
+64,male,credit card,yes
+30,female,credit card,yes
+52,female,credit card,no
+75,female,cash,no
+65,male,credit card,yes
+34,male,credit card,yes
+27,male,credit card,yes
+42,male,credit card,yes
+33,male,credit card,yes
+24,male,credit card,yes
+49,female,credit card,no
+76,female,credit card,no
+41,male,credit card,yes
+71,male,credit card,yes
+43,male,credit card,yes
+44,female,cash,no
+20,female,credit card,yes
+18,male,credit card,yes
+53,male,cash,no
+46,male,credit card,yes
+82,female,credit card,no
+23,female,credit card,yes
+19,male,cheque,yes
+68,male,cash,no
+42,male,credit card,yes
+39,male,credit card,yes
+73,male,cheque,no
+50,male,credit card,yes
+22,male,cash,yes
+20,male,credit card,yes
+47,male,cheque,no
+40,female,credit card,no
+23,male,credit card,yes
+21,female,credit card,yes
+64,male,credit card,yes
+39,male,cash,no
+80,male,credit card,no
+38,female,cash,no
+47,female,credit card,no
+85,male,cash,no
+26,male,cheque,yes
+69,female,credit card,no
+18,male,credit card,yes
+18,male,credit card,yes
+40,female,credit card,no
+90,male,credit card,no
+22,female,cash,no
+36,female,cash,no
+57,male,credit card,yes
+51,female,credit card,no
+63,male,cash,no
+22,male,cash,yes
+33,female,cash,no
+24,male,credit card,yes
+44,male,cash,no
+55,male,credit card,yes
+60,male,credit card,yes
+21,female,credit card,yes
+56,female,credit card,no
+51,male,credit card,yes
+33,female,cash,no
+56,male,cash,no
+61,male,credit card,yes
+91,male,credit card,no
+44,female,credit card,no
+54,female,credit card,no
+55,male,cash,no
+20,male,cash,yes
+41,male,credit card,yes
+3,male,credit card,yes
+22,male,cheque,yes
+17,female,credit card,yes
+66,male,credit card,yes
+74,female,credit card,no
+49,female,credit card,no
+43,male,cash,no
+75,male,cash,no
+52,male,cash,no
+76,male,credit card,no
+80,female,credit card,no
+41,male,cash,no
+65,male,cash,no
+51,female,credit card,no
+28,female,credit card,yes
+76,male,credit card,no
+58,male,credit card,yes
+53,male,credit card,yes
+28,female,credit card,yes
+19,female,credit card,yes
+36,male,credit card,yes
+69,male,cash,no
+31,male,credit card,yes
+78,male,credit card,no
+46,male,credit card,yes
+26,male,credit card,yes
+50,female,cash,no
+21,female,credit card,yes
+56,male,credit card,yes
+76,male,credit card,no
+39,female,cash,no
+34,male,credit card,yes
+48,female,credit card,no
+67,male,credit card,yes
+43,female,credit card,no
+24,male,credit card,yes
+58,male,cash,no
+34,female,credit card,no
+67,female,credit card,no
+18,male,credit card,yes
+61,male,credit card,yes
+49,male,credit card,yes
+54,male,credit card,yes
+37,male,credit card,yes
+43,male,cash,no
+52,male,cheque,no
+51,female,credit card,no
+62,female,credit card,no
+51,male,cash,no
+66,female,credit card,no
+54,female,credit card,no
+70,male,cash,no
+44,female,credit card,no
+70,female,credit card,no
+48,male,credit card,yes
+59,female,credit card,no
+54,male,credit card,yes
+18,female,credit card,yes
+19,female,credit card,yes
+19,female,credit card,yes
+36,male,credit card,yes
+27,male,cheque,yes
+18,female,credit card,yes
+58,male,cash,no
+18,female,credit card,yes
+36,female,credit card,no
+47,male,credit card,yes
+52,male,credit card,yes
+56,male,cash,no
+35,male,credit card,yes
+29,female,credit card,yes
+32,male,credit card,yes
+72,male,cash,no
+71,male,credit card,yes
+49,male,credit card,yes
+77,male,credit card,no
+21,male,cash,yes
+29,female,cash,no
+47,female,credit card,no
+19,female,credit card,yes
+63,female,cheque,no
+24,male,credit card,yes
+66,female,credit card,no
+23,male,credit card,yes
+45,female,credit card,no
+30,male,credit card,yes
+72,female,cash,no
+79,male,cash,no
+46,male,credit card,yes
+69,female,cash,no
+55,female,cheque,no
+27,female,credit card,yes
+25,female,cash,no
+38,female,credit card,no
+39,female,credit card,no
+76,male,credit card,no
+34,male,cash,yes
+52,female,cash,no
+57,female,credit card,no
+23,female,credit card,yes
+71,female,credit card,no
+58,male,credit card,yes
+17,female,credit card,yes
+47,female,cash,no
+41,male,cash,no
+59,male,credit card,yes
+19,male,credit card,yes
+18,female,credit card,yes
+53,male,credit card,yes
+44,male,credit card,yes
+33,male,credit card,yes
+28,male,cash,yes
+78,male,credit card,no
+30,female,cash,no
+51,male,credit card,yes
+39,female,credit card,no
+80,female,credit card,no
+40,male,credit card,yes
+53,female,cash,no
+28,male,credit card,yes
+87,female,credit card,no
+36,female,credit card,no
+20,female,credit card,yes
+37,male,cash,no
+55,male,cheque,no
+72,male,cash,no
+55,female,credit card,no
+36,male,cash,no
+34,male,credit card,yes
+41,male,credit card,yes
+17,female,credit card,yes
+30,male,credit card,yes
+17,male,credit card,yes
+83,female,credit card,no
+46,female,cheque,no
+59,female,credit card,no
+18,male,cash,yes
+28,male,credit card,yes
+26,male,cash,yes
+33,female,credit card,no
+21,male,credit card,yes
+55,female,cash,no
+68,male,cash,no
+29,female,credit card,yes
+32,male,credit card,yes
+57,male,cash,no
+63,female,credit card,no
+47,female,cash,no
+31,female,credit card,no
+27,female,cash,no
+18,female,cash,no
+51,female,credit card,no
+17,male,credit card,yes
+48,male,credit card,yes
+25,male,credit card,yes
+42,female,cash,no
+42,female,credit card,no
+49,male,credit card,yes
+47,male,cash,no
+45,female,cash,no
+49,female,credit card,no
+34,male,credit card,yes
+39,female,credit card,no
+29,female,credit card,yes
+32,female,cash,no
+25,male,cash,yes
+21,male,credit card,yes
+57,female,cash,no
+64,female,credit card,no
+51,female,cash,no
+24,male,credit card,yes
+60,male,credit card,yes
+35,male,credit card,yes
+54,male,credit card,yes
+55,female,cash,no
+40,male,cash,no
+43,male,cash,no
+91,male,credit card,no
+40,female,cash,no
+51,male,cash,no
+105,female,credit card,no
+76,female,cash,no
+54,male,cash,no
+17,female,credit card,yes
+21,female,cheque,no
+18,female,credit card,yes
+20,female,credit card,yes
+27,male,cash,yes
+28,male,credit card,yes
+44,female,credit card,no
+21,male,credit card,yes
+32,male,cash,yes
+37,female,cash,no
+18,male,cash,yes
+89,female,credit card,no
+41,male,credit card,yes
+72,male,cash,no
+29,female,cheque,no
+46,male,credit card,yes
+61,female,cash,no
+20,male,credit card,yes
+45,male,credit card,yes
+62,female,credit card,no
+51,male,credit card,yes
+74,female,credit card,no
+48,male,credit card,yes
+28,male,cash,yes
+46,female,credit card,no
+32,female,credit card,no
+53,female,cash,no
+57,male,credit card,yes
+22,male,cash,yes
+49,male,credit card,yes
+63,male,credit card,yes
+90,male,credit card,no
+57,male,cheque,no
+28,female,credit card,yes
+17,female,cash,no
+50,male,cash,no
+51,male,credit card,yes
+74,female,credit card,no
+73,female,credit card,no
+52,male,cash,no
+52,female,credit card,no
+19,male,credit card,yes
+54,male,cash,no
+26,male,credit card,yes
+25,female,cheque,no
+42,male,credit card,yes
+78,female,cash,no
+34,male,credit card,yes
+19,female,credit card,yes
+27,female,cash,no
+81,male,credit card,no
+32,female,cheque,no
+70,male,cash,no
+23,female,credit card,yes
+17,female,credit card,yes
+19,male,cash,yes
+42,female,credit card,no
+27,female,credit card,yes
+57,female,credit card,no
+57,male,credit card,yes
+67,male,cash,no
+63,female,cheque,no
+40,female,credit card,no
+21,male,cash,yes
+58,female,credit card,no
+23,male,cash,yes
+76,male,credit card,no
+73,female,cash,no
+40,female,cash,no
+33,male,credit card,yes
+54,male,credit card,yes
+17,female,credit card,yes
+51,male,cash,no
+48,female,credit card,no
+43,male,credit card,yes
+36,male,credit card,yes
+22,female,credit card,yes
+62,male,credit card,yes
+43,male,credit card,yes
+42,female,credit card,no
+22,male,cash,yes
+64,male,credit card,yes
+34,male,cheque,yes
+42,female,credit card,no
+19,female,cash,no
+36,male,credit card,yes
+39,male,credit card,yes
+83,male,credit card,no
+28,female,credit card,yes
+68,male,cash,no
+48,male,credit card,yes
+60,female,credit card,no
+76,male,credit card,no
+50,female,cheque,no
+21,female,credit card,yes
+46,female,credit card,no
+35,female,credit card,no
+27,male,cheque,yes
+39,male,credit card,yes
+61,male,credit card,yes
+20,female,credit card,yes
+22,female,credit card,yes
+53,female,credit card,no
+20,male,cash,yes
+34,male,credit card,yes
+52,male,credit card,yes
+36,male,credit card,yes
+52,female,credit card,no
+28,male,credit card,yes
+40,male,credit card,yes
+32,male,credit card,yes
+18,female,credit card,yes
+22,female,cheque,no
+81,male,credit card,no
+52,female,cash,no
+76,female,credit card,no
+43,male,credit card,yes
+23,male,credit card,yes
+34,male,credit card,yes
+38,female,credit card,no
+33,female,credit card,no
+48,male,cash,no
+41,male,cash,no
+78,male,credit card,no
+51,female,credit card,no
+42,male,credit card,yes
+72,male,cash,no
+20,female,cash,no
+69,male,cash,no
+37,male,cash,no
+45,female,credit card,no
+77,female,credit card,no
+79,male,credit card,no
+56,male,credit card,yes
+44,male,credit card,yes
+30,male,cash,yes
+50,female,cash,no
+57,male,cash,no
+42,male,credit card,yes
+64,female,cash,no
+50,female,cash,no
+28,male,cash,yes
+50,male,cash,no
+41,female,credit card,no
+64,female,credit card,no
+81,female,credit card,no
+48,female,cash,no
+84,male,credit card,no
+29,male,credit card,yes
+26,male,cash,yes
+42,female,credit card,no
+40,female,credit card,no
+79,male,credit card,no
+70,male,credit card,yes
+51,male,cheque,no
+24,female,cheque,no
+17,female,credit card,yes
+17,male,credit card,yes
+18,male,credit card,yes
+45,male,credit card,yes
+51,male,cash,no
+17,male,credit card,yes
+74,female,credit card,no
+35,female,credit card,no
+19,male,cash,yes
+24,male,credit card,yes
+58,male,credit card,yes
+45,female,credit card,no
+43,female,credit card,no
+76,female,cash,no
+58,female,cash,no
+33,male,cheque,yes
+81,male,cash,no
+20,female,credit card,yes
+52,male,cash,no
+22,male,cash,yes
+18,female,credit card,yes
+65,male,cash,no
+17,female,credit card,yes
+29,female,credit card,yes
+72,female,credit card,no
+39,male,cash,no
+33,male,cheque,yes
+52,male,credit card,yes
+62,male,credit card,yes
+17,male,credit card,yes
+30,female,credit card,yes
+30,female,credit card,yes
+59,female,cash,no
+40,female,cash,no
+26,male,credit card,yes
+51,female,credit card,no
+59,male,credit card,yes
+30,male,credit card,yes
+54,male,cash,no
+39,male,credit card,yes
+37,male,credit card,yes
+37,female,cheque,no
+43,female,cash,no
+42,male,cash,no
+36,male,credit card,yes
+43,male,cash,no
+30,female,credit card,yes
+38,female,credit card,no
+67,female,credit card,no
+18,male,credit card,yes
+71,male,cash,no
+45,male,cheque,no
+59,female,credit card,no
+39,female,credit card,no
+41,male,credit card,yes
+70,male,cash,no
+31,male,cash,yes
+91,male,credit card,no
+59,male,credit card,yes
+47,male,credit card,yes
+56,female,credit card,no
+44,male,cash,no
+78,male,credit card,no
+35,female,credit card,no
+27,male,credit card,yes
+57,male,cash,no
+21,male,credit card,yes
+53,male,credit card,yes
+90,female,credit card,no
+32,male,credit card,yes
+41,female,cash,no
+47,female,credit card,no
+90,male,credit card,no
+72,male,cash,no
+42,male,cash,no
+59,male,cheque,no
+29,female,cash,no
+39,male,credit card,yes
+41,female,cheque,no
+28,female,cash,no
+72,female,credit card,no
+45,female,cheque,no
+26,female,credit card,yes
+29,female,credit card,yes
+28,female,credit card,yes
+21,male,credit card,yes
+40,male,credit card,yes
+85,male,credit card,no
+50,female,credit card,no
+21,male,credit card,yes
+60,female,credit card,no
+76,female,cash,no
+84,female,credit card,no
+49,female,credit card,no
+39,female,cash,no
+17,male,credit card,yes
+54,female,credit card,no
+64,male,cash,no
+32,male,cash,yes
+35,male,cash,yes
+34,male,cash,yes
+33,female,credit card,no
+22,male,credit card,yes
+73,female,cheque,no
+39,male,credit card,yes
+47,female,cash,no
+26,female,credit card,yes
+67,male,cash,no
+52,male,credit card,yes
+23,female,credit card,yes
+61,female,cash,no
+55,female,credit card,no
+71,male,cheque,no
+42,female,credit card,no
+42,male,credit card,yes
+69,female,cash,no
+34,male,cash,yes
+20,female,credit card,yes
+86,male,credit card,no
+44,male,cheque,no
+83,female,cash,no
+25,male,credit card,yes
+45,male,cash,no
+19,male,credit card,yes
+45,male,credit card,yes
+43,female,credit card,no
+31,male,credit card,yes
+90,female,cash,no
+20,male,credit card,yes
+56,male,credit card,yes
+61,female,credit card,no
+20,male,credit card,yes
+25,female,credit card,yes
+45,male,cash,no
+38,female,credit card,no
+37,male,cheque,no
+44,male,credit card,yes
+51,male,credit card,yes
+27,male,credit card,yes
+42,female,cash,no
+37,male,credit card,yes
+20,male,cash,yes
+55,female,credit card,no
+64,male,credit card,yes
+56,male,credit card,yes
+66,female,cash,no
+69,female,credit card,no
+89,male,cash,no
+41,male,credit card,yes
+48,male,credit card,yes
+38,male,credit card,yes
+38,male,cash,no
+67,male,cash,no
+87,male,cheque,no
+29,male,cash,yes
+51,female,credit card,no
+31,male,credit card,yes
+34,female,credit card,no
+32,male,credit card,yes
+26,female,cheque,no
+65,male,credit card,yes
+43,male,credit card,yes
+45,female,credit card,no
+57,female,cash,no
+34,male,credit card,yes
+18,female,credit card,yes
+70,female,cash,no
+75,female,credit card,no
+46,female,credit card,no
+24,male,credit card,yes
+52,male,credit card,yes
+48,female,cash,no
+27,female,cash,no
+88,male,credit card,no
+26,male,credit card,yes
+57,male,cash,no
+66,female,credit card,no
+49,male,credit card,yes
+55,female,credit card,no
+24,female,cash,no
+63,female,cash,no
+52,female,credit card,no
+25,male,cash,yes
+30,female,credit card,yes
+63,male,cheque,no
+76,female,credit card,no
+69,female,cheque,no
+43,female,cash,no
+42,male,credit card,yes
+51,male,credit card,yes
+44,male,credit card,yes
+51,male,credit card,yes
+30,male,credit card,yes
+48,male,cheque,no
+28,female,credit card,yes
+50,male,credit card,yes
+25,male,credit card,yes
+56,male,cash,no
+17,female,credit card,yes
+59,female,credit card,no
+70,female,cash,no
+45,male,cash,no
+43,male,cash,no
+50,male,credit card,yes
+46,male,cash,no
+25,female,credit card,yes
+43,male,credit card,yes
+29,male,cash,yes
+49,male,credit card,yes
+43,female,cash,no
+35,male,cash,yes
+19,male,credit card,yes
+76,male,cash,no
+53,female,credit card,no
+64,female,credit card,no
+42,female,credit card,no
+53,male,credit card,yes
+66,female,credit card,no
+73,female,cash,no
+31,male,credit card,yes
+68,male,credit card,yes
+38,female,credit card,no
+39,female,credit card,no
+23,male,cash,yes
+52,female,cash,no
+38,male,credit card,yes
+81,male,cash,no
+20,male,cash,yes
+20,female,credit card,yes
+40,male,credit card,yes
+29,male,cash,yes
+90,male,cash,no
+42,female,credit card,no
+80,male,cheque,no
+43,male,credit card,yes
+23,male,credit card,yes
+29,female,credit card,yes
+44,female,credit card,no
+37,male,cash,no
+26,male,credit card,yes
+21,male,credit card,yes
+80,female,cheque,no
+50,male,cash,no
+28,female,credit card,yes
+82,male,cash,no
+64,male,credit card,yes
+19,male,credit card,yes
+29,female,credit card,yes
+84,male,credit card,no
+20,male,credit card,yes
+19,male,credit card,yes
+24,female,credit card,yes
